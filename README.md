@@ -56,6 +56,6 @@ The **olist.sqlite** database contains:
 ---
 
 ## 🛠 Tools Used
-- **SQLite** (via DB Browser for SQLite / VS Code SQLite Extension)
+- **SQLite** (via DB Browser for SQLite )
 - **SQL Language** for queries
 - **GitHub** for project submission
